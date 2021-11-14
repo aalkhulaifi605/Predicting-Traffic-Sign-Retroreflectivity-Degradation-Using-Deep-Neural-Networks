@@ -1,2 +1,2 @@
-# Predicting-Traffic-Sign-Retroreflectivity-Degradation-Using-DeepNeural-Networks
-The official code the paper "Predicting Traffic Sign Retroreflectivity Degradation Using DeepNeural Networks"
+# Predicting-Traffic-Sign-Retroreflectivity-Degradation-Using-Deep-Neural-Networks
+The official code the paper "Predicting Traffic Sign Retroreflectivity Degradation Using DeepNeural Networks". To simplfiy the process of reproducing the results of our paper, all experimented is implemented in the "retroreflection_exp.ipynb" jupyter notebook. The code requires the dataset to be included in the /data folder. Please contact the crossponding author to request access for the dataset used in this work.
